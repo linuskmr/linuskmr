@@ -1,23 +1,23 @@
 Hi, I'm Linus and I'm studying computer science.
 
-I'm interested in (and not necessarily good in) 🎉
+# I'm interested in (and not necessarily good in) 🎉
 - WebAssembly
 - Web Design
-- Automation of calculating silly math homework — see cyk, neville-aitken
+- Automation of calculating silly math homework — see [cyk](https://github.com/linuskmr/cyk), [neville-aitken](https://github.com/linuskmr/neville-aitken)
 - Docker 🐋
 - Low Level Programming
-- Celestial Navigation — see sextant-calculator
+- Celestial Navigation — see [sextant-calculator](https://github.com/linuskmr/sextant-calculator)
 
-I recommend 👍🏼
+# I recommend 👍🏼
 - Zorin OS — A beautiful operating system based on Ubuntu LTS
 - This Week in Rust — Weekly newsletter about Rust programming stuff
 - Svelte — JavaScript Frontend Framework
-- Advent of Code — Daily coding challenges in December (my solutions)
+- Advent of Code — Daily coding challenges in December ([my solutions](https://github.com/linuskmr/adventofcode))
 
-I love ♥️
+# I love ♥️
 - Dark Mode with absolutely black background and not this ugly grey one
 
-I code in 🚀
+# I code in 🚀
 - Rust — see forty-two-lang
 - Python
 - Javascript/Typescript
