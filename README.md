@@ -13,10 +13,10 @@ Hi, I'm Linus and I'm studying computer science.
 
 # I recommend 👍🏼
 
-- Zorin OS — A beautiful operating system based on Ubuntu LTS
-- This Week in Rust — Weekly newsletter about Rust programming stuff
-- Svelte — JavaScript Frontend Framework
-- Advent of Code — Daily coding challenges in December ([my solutions](https://github.com/linuskmr/adventofcode))
+- [Zorin OS](https://zorinos.com) — A beautiful operating system based on Ubuntu LTS
+- [This Week in Rust](https://this-week-in-rust.org) — Weekly newsletter about Rust programming stuff
+- [Svelte](https://svelte.dev) — JavaScript Frontend Framework
+- [Advent of Code](https://adventofcode.com) — Daily coding challenges in December ([my solutions](https://github.com/linuskmr/adventofcode))
 
 # I love ♥️
 
@@ -24,11 +24,11 @@ Hi, I'm Linus and I'm studying computer science.
 
 # I code in 🚀
 
-- Rust — see forty-two-lang
+- Rust — see [forty-two-lang](https://github.com/linuskmr/forty-two-lang)
 - Python
 - Javascript/Typescript
-- C/C++ — see chttp
-- Go (Will get nicer with generics) - see logo
+- C/C++ — see [chttp](https://github.com/linuskmr/chttp)
+- Go ([Will get nicer with generics](https://blog.golang.org/generics-proposal)) - see [logo](https://github.com/linuskmr/logo)
 - Kotlin
 
 
