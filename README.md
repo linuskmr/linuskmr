@@ -2,7 +2,7 @@ Hi, I'm Linus and I'm studying computer science.
 
 # I'm interested in 🎉
 
-...and not necessarily good in
+...but not necessarily good in
 
 - WebAssembly
 - Web Design
