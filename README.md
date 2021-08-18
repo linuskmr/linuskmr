@@ -4,12 +4,13 @@ Hi, I'm Linus and I'm studying computer science.
 
 ...but not necessarily good in
 
-- WebAssembly
+- WebAssembly & AssemblyScript
+- Rust
 - Web Design
 - Automation of calculating silly math homework — see [cyk](https://github.com/linuskmr/cyk), [neville-aitken](https://github.com/linuskmr/neville-aitken)
 - Docker 🐋
 - Low Level Programming
-- Celestial Navigation — see [sextant-calculator](https://github.com/linuskmr/sextant-calculator)
+- Celestial Navigation ☀️ — see [sextant-calculator](https://github.com/linuskmr/sextant-calculator)
 
 # I recommend 👍🏼
 
