@@ -25,7 +25,7 @@ Hi, I'm Linus and I'm studying computer science.
 
 # I code in 🚀
 
-- Rust — see [forty-two-lang](https://github.com/linuskmr/forty-two-lang)
+- Rust — see [fortytwo-lang](https://github.com/linuskmr/fortytwo-lang)
 - Python
 - Javascript/Typescript
 - C/C++ — see [chttp](https://github.com/linuskmr/chttp)
