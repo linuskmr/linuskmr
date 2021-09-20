@@ -33,7 +33,7 @@ Hi, I'm Linus and I'm studying computer science.
 - Kotlin
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuskmr&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuskmr&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
