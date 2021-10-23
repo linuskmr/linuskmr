@@ -28,7 +28,7 @@ Hi, I'm Linus and I'm studying computer science.
 # I love ♥️
 
 - Dark Mode with absolutely black background and not this ugly grey one
-- The [Go Package Publishing System](https://golang.org/doc/modules/publishing) for its simplicity (compared to e.g. PyPi)
+- The [Go Package Publishing System](https://golang.org/doc/modules/publishing) for its simplicity (compared to e.g. pypi)
 
 # I code in 🚀
 
