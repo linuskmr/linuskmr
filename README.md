@@ -1,16 +1,22 @@
 Hi, I'm Linus and I'm studying computer science.
 
-# I'm interested in 🎉
+# I'm interested in and currently learning 🎉
 
 ...but not necessarily good in
 
-- WebAssembly & AssemblyScript
-- Rust
+- Programming languages
+    - [Rust](https://www.rust-lang.org)
+    - [WebAssembly](https://webassembly.org) & [AssemblyScript](https://www.assemblyscript.org)
+- NoSQL databases[^nosql]:
+    - [MongoDB](https://www.mongodb.com)
+    - [FaunaDB](https://fauna.com)
+- [Docker](https://www.docker.com) 🐋
 - Web Design
 - Automation of calculating silly math homework — see [cyk](https://github.com/linuskmr/cyk), [neville-aitken](https://github.com/linuskmr/neville-aitken)
-- Docker 🐋
 - Low Level Programming
 - Celestial Navigation ☀️ — see [sextant-calculator](https://github.com/linuskmr/sextant-calculator)
+
+[^nosql]: Databases with "not only SQL"
 
 # I recommend 👍🏼
 
