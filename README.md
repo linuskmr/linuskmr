@@ -7,9 +7,7 @@ Hi, I'm Linus and I'm studying computer science.
 - Programming languages
     - [Rust](https://www.rust-lang.org)
     - [WebAssembly](https://webassembly.org) & [AssemblyScript](https://www.assemblyscript.org)
-- NoSQL databases[^nosql]:
-    - [MongoDB](https://www.mongodb.com)
-    - [FaunaDB](https://fauna.com)
+- NoSQL databases[^nosql]: [MongoDB](https://www.mongodb.com)
 - [Docker](https://www.docker.com) 🐋
 - Web Design
 - Automation of calculating silly math homework — see [cyk](https://github.com/linuskmr/cyk), [neville-aitken](https://github.com/linuskmr/neville-aitken)
