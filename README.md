@@ -4,7 +4,7 @@ Hi, I'm Linus and I'm studying computer science.
 
 ...but not necessarily good in
 
-- Programming languages
+- Programming languages, currently
     - [Rust](https://www.rust-lang.org)
     - [WebAssembly](https://webassembly.org) & [AssemblyScript](https://www.assemblyscript.org)
 - NoSQL databases[^nosql]: [MongoDB](https://www.mongodb.com)
