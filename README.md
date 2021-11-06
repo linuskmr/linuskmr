@@ -12,7 +12,7 @@ Hi, I'm Linus and I'm studying computer science.
 - [Docker](https://www.docker.com) 🐋
 - Web Design
 - Automation of calculating silly math homework — see [cyk](https://github.com/linuskmr/cyk), [neville-aitken](https://github.com/linuskmr/neville-aitken)
-- Low Level Programming
+- Low Level Programming & Embedded Devices (Arduino)
 - Celestial Navigation ☀️ — see [sextant-calculator](https://github.com/linuskmr/sextant-calculator)
 
 [^nosql]: Databases with "not only SQL"
