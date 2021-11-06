@@ -7,6 +7,7 @@ Hi, I'm Linus and I'm studying computer science.
 - Programming languages, currently
     - [Rust](https://www.rust-lang.org)
     - [WebAssembly](https://webassembly.org) & [AssemblyScript](https://www.assemblyscript.org)
+- [Deno](https://deno.land), a JavaScript/TypeScript Runtime written in Rust
 - NoSQL databases[^nosql]: [MongoDB](https://www.mongodb.com)
 - [Docker](https://www.docker.com) 🐋
 - Web Design
@@ -32,7 +33,9 @@ Hi, I'm Linus and I'm studying computer science.
 
 - Rust — see [fortytwo-lang](https://github.com/linuskmr/fortytwo-lang)
 - Python
+    - Frameworks: [FastAPI](https://fastapi.tiangolo.com/)
 - Javascript/Typescript
+    - Frameworks: [Svelte](https://svelte.dev), [Vue.js](https://vuejs.org), [jQuery](https://jquery.com)
 - C/C++ — see [chttp](https://github.com/linuskmr/chttp)
 - Go ([Will get nicer with generics](https://blog.golang.org/generics-proposal)) - see [logo](https://github.com/linuskmr/logo)
 - Kotlin
