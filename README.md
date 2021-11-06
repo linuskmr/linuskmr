@@ -36,7 +36,7 @@ Hi, I'm Linus and I'm studying computer science.
     - Frameworks: [FastAPI](https://fastapi.tiangolo.com/)
 - Javascript/Typescript
     - Frameworks: [Svelte](https://svelte.dev), [Vue.js](https://vuejs.org), [jQuery](https://jquery.com)
-- C/C++ — see [chttp](https://github.com/linuskmr/chttp)
+- C/C++ — see [chttp](https://github.com/linuskmr/chttp), [turing machine compiler](https://github.com/linuskmr/turing-machine-compiler)
 - Go ([Will get nicer with generics](https://blog.golang.org/generics-proposal)) - see [logo](https://github.com/linuskmr/logo)
 - Kotlin
 
