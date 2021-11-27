@@ -1,6 +1,6 @@
 Hi, I'm Linus and I'm studying computer science.
 
-Besides my repositories, check out my [my Gists](https://gist.github.com/linuskmr).
+Besides my repositories, check out [my Gists](https://gist.github.com/linuskmr).
 
 # I'm interested in and currently learning 🎉
 
