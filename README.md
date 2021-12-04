@@ -39,7 +39,7 @@ Besides my repositories also check out [my Gists](https://gist.github.com/linusk
 - Javascript/Typescript
     - Frameworks: [Svelte](https://svelte.dev), [Vue.js](https://vuejs.org), [jQuery](https://jquery.com)
 - C/C++ — see [chttp](https://github.com/linuskmr/chttp), [turing machine compiler](https://github.com/linuskmr/turing-machine-compiler)
-- Go ([Will get nicer with generics](https://blog.golang.org/generics-proposal)) - see [logo](https://github.com/linuskmr/logo)
+- Go ([Will get nicer with generics](https://blog.golang.org/generics-proposal)) — see [logo](https://github.com/linuskmr/logo)
 - Kotlin
 
 
