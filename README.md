@@ -4,7 +4,8 @@ Hi, I'm Linus and I'm studying computer science.
 Rust •
 Python ([FastAPI](https://fastapi.tiangolo.com)) •
 Javascript/Typescript ([Svelte](https://svelte.dev), [Vue.js](https://vuejs.org), [jQuery](https://jquery.com)) •
-C/C++ •
+C •
+C++ •
 Go •
 Kotlin •
 Java •
