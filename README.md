@@ -42,7 +42,7 @@ AssemblyScript
 - Human-readable data formats (txt, md, csv) that are still readable in 50 years and don't depend on specific software support
 
 
-[![Most used programming languages](https://github-readme-stats-linuskmr.vercel.app/api/top-langs/?username=linuskmr&layout=compact&langs_count=10&exclude_repo=nix-html,useful-stuff&hide=Makefile,CMake,HTML,TeX,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used programming languages](https://github-readme-stats-linuskmr.vercel.app/api/top-langs/?username=linuskmr&layout=compact&langs_count=10&exclude_repo=nix-html,useful-stuff,cgg&hide=Makefile,CMake,HTML,TeX,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
