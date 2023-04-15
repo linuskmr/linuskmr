@@ -1,4 +1,11 @@
-![](banner.jpeg)
+```rust
+for (vga, chr) in iter::zip(
+	(0xb8000..0xb8fa0).into_iter().step_by(2),
+	[0x4c, 0x69, 0x6e, 0x75, 0x73, 0x13] // CP473
+) {
+	unsafe { (vga as *mut u8).write_volatile(chr); }
+}
+```
 
 - 👋 Hi, I'm Linus
 - 🎓 Studying Computer Science in Germany
