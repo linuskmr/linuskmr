@@ -8,9 +8,8 @@ for (vga, chr) in iter::zip(
 ```
 
 - 👋 Hi, I'm Linus
-- 🎓 Studying Computer Science in Germany
+- 🎓 Computer Science Master Student @ [KIT](https://kit.edu)
 - 👨‍💻 Programming in Rust, Python, C++, C, JS/TS, Go, Kotlin, WebAssembly
-- 📫 Reach me via linuskmr.dev@gmail.com
 - ♥️ Loving human-readable data formats (txt, md, csv) that are still readable in 50 years and don't depend on specific software support
 
 
