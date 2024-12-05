@@ -1,3 +1,8 @@
+<!--
+![Most used programming languages](https://github-readme-stats-delta-five-89.vercel.app/api/top-langs?username=linuskmr&langs_count=8&hide=TeX,HTML,Shell,CSS,SCSS&layout=compact&exclude_repo=github-readme-stats)
+-->
+
+
 ```rust
 for (vga, chr) in iter::zip(
 	(0xb8000..0xb8fa0).into_iter().step_by(2),
